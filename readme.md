@@ -1,6 +1,8 @@
 # Polaris
 Polaris is a feature-rich development board built around the Lattice iCE40 FPGA, designed for experimentation and small FPGA-based projects. The board provides a practical set of peripherals for graphics, storage, and USB-based interaction, all in a compact and approachable design. I designed it to implement a custom 32-bit microcontroller.
 
+<img width="634" height="475" alt="image" src="https://github.com/user-attachments/assets/cd815a29-ca89-44a4-9d52-621e1e89f86e" />
+
 ## Features
 
 - Lattice iCE40 FPGA
