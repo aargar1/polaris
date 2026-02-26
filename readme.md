@@ -1,5 +1,5 @@
 # Polaris
-Polaris is a feature-rich development board built around the Lattice iCE40 FPGA, designed for experimentation and small FPGA-based projects. The board provides a practical set of peripherals for graphics, storage, and USB-based interaction, all in a compact and approachable design.
+Polaris is a feature-rich development board built around the Lattice iCE40 FPGA, designed for experimentation and small FPGA-based projects. The board provides a practical set of peripherals for graphics, storage, and USB-based interaction, all in a compact and approachable design. I designed it to implement a custom 32-bit microcontroller.
 
 ## Features
 
@@ -12,7 +12,7 @@ Polaris is a feature-rich development board built around the Lattice iCE40 FPGA,
 
 ## Tooling
 
-Polaris is compatable with the `yosys` toolchain. The [iCEStudio](https://icestudio.io/) development enviornment provides a great ecosystem for development on Polaris and iCE40-based boards in general.
+Polaris is plug-and-play compatable with the `yosys` toolchain. The [iCEStudio](https://icestudio.io/) development enviornment provides a great ecosystem for development on Polaris and iCE40-based boards in general.
 
 ## Acknowlegments
 
